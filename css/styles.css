@@ -533,7 +533,7 @@ ul {
 /* MODAL */
 
 .backdrop {
-  position: absolute;
+  position: fixed;
   width: 1600px;
   height: 1024px;
   left: 0px;
@@ -542,7 +542,7 @@ ul {
 }
 
 .modal {
-  position: absolute;
+  position: fixed;
   width: 528px;
   height: 581px;
   left: 536px;
